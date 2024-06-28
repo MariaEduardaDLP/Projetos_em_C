@@ -4,7 +4,7 @@ Joguinho simples em que um jogador decide se irá jogar pedra, papel ou tesoura 
 
 ## 📝Regras
 - O jogador só pode inserir valores que estão nas opções apresentadas
-   - Caso jogador desobedeça, o programa irá solicitar novamente o valor
+   - Caso o jogador desobedeça, o programa irá solicitar novamente o valor
 - Possibilidades para que o jogador pontue:
    - Jogador: Pedra | Computador: Tesoura;
    - Jogador: Papel | Computador: Pedra;
